@@ -262,7 +262,7 @@ h4:hover {
     line-height: 1.5em;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
 
     body {
         display: block;
